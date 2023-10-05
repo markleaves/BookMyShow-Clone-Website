@@ -287,6 +287,7 @@ button {
 .center_image img {
 	border-radius: 10px;
 	margin-top: 10px;
+	width: 100%;
 }
 
 /* center image ends */
